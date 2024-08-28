@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação interativa desenvolvida em Python usando Streamlit e Plotly para visualizar dados de vídeos de exercícios. A aplicação lê um arquivo CSV contendo informações sobre vídeos anotados e exibe gráficos interativos para análise de diferentes aspectos dos vídeos.
 
+[Analysis Annotation Repcount App](https://analysis-annotation-repcount.streamlit.app/)
+
 ## Funcionalidades
 
 A aplicação oferece as seguintes visualizações:
